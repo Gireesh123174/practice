@@ -1,0 +1,2 @@
+user=giri
+psswd=hello@990
